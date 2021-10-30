@@ -1,5 +1,5 @@
 # FarmacieSQL
-Fisierul CreateTable contine scriptul pentru crearea tabelurile si adaugarea datelor in acestea folosite in rezolvarea cerintelor. Fiserele care incep cu denumirea "farmacie" reprezinta tabele cu date exportate folosind MySql Workbench;
+Fisierul CreateTable contine scriptul pentru crearea tabelurilor si adaugarea datelor in acestea folosite in rezolvarea cerintelor. Fiserele care incep cu denumirea "farmacie" reprezinta tabele cu date exportate folosind MySql Workbench;
 
 Fisierele 1, 2, 3, 4 rezolva cele 4 cerinte:
 
